@@ -1,11 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0dbb159-2d0b-4842-9e99-cd7f0f53e892" name="Default Changelist" comment="" />
+    <list default="true" id="b0dbb159-2d0b-4842-9e99-cd7f0f53e892" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/FirstLastPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FirstOccurance28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IntegerToRoman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JudgeSquareNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LetterCombinationOfPhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RemoveElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RotateImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwapPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Triplets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ChemicalExperiment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ChemicalExperiment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CircleFormed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CircleFormed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PairsInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PairsInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PrisonBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PrisonBreak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TestingHAshmap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TestingHAshmap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ZigZagConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ZigZagConversion.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -27,6 +58,59 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
+  <component name="RunManager" selected="Application.JudgeSquareNumbers">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch" />
+      <module name="coading-excercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstOccurance28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FirstOccurance28" />
+      <module name="coading-excercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JudgeSquareNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JudgeSquareNumbers" />
+      <module name="coading-excercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveDuplicatesFromSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RemoveDuplicatesFromSortedArray" />
+      <module name="coading-excercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RemoveElement" />
+      <module name="coading-excercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.RemoveDuplicatesFromSortedArray" />
+      <item itemvalue="Application.RemoveElement" />
+      <item itemvalue="Application.FirstOccurance28" />
+      <item itemvalue="Application.BinarySearch" />
+      <item itemvalue="Application.JudgeSquareNumbers" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JudgeSquareNumbers" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.FirstOccurance28" />
+        <item itemvalue="Application.RemoveElement" />
+        <item itemvalue="Application.RemoveDuplicatesFromSortedArray" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -39,5 +123,94 @@
       <updated>1709186896563</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="464" y="233" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1721504653040">
+      <screen x="42" y="25" width="1750" height="1095" />
+    </state>
+    <state x="464" y="233" key="#com.intellij.execution.impl.EditConfigurationsDialog/42.25.1750.1095@42.25.1750.1095" timestamp="1721504653040" />
+    <state width="439" height="466" key="DebuggerActiveHint" timestamp="1722145260493">
+      <screen x="42" y="25" width="1750" height="1095" />
+    </state>
+    <state width="439" height="466" key="DebuggerActiveHint/42.25.1750.1095@42.25.1750.1095" timestamp="1722145260493" />
+    <state width="1103" height="370" key="GridCell.Tab.0.bottom" timestamp="1722814220154">
+      <screen x="42" y="25" width="1750" height="1095" />
+    </state>
+    <state width="1103" height="370" key="GridCell.Tab.0.bottom/42.25.1750.1095@42.25.1750.1095" timestamp="1722814220154" />
+    <state width="1103" height="370" key="GridCell.Tab.0.center" timestamp="1722814220154">
+      <screen x="42" y="25" width="1750" height="1095" />
+    </state>
+    <state width="1103" height="370" key="GridCell.Tab.0.center/42.25.1750.1095@42.25.1750.1095" timestamp="1722814220154" />
+    <state width="1103" height="370" key="GridCell.Tab.0.left" timestamp="1722814220154">
+      <screen x="42" y="25" width="1750" height="1095" />
+    </state>
+    <state width="1103" height="370" key="GridCell.Tab.0.left/42.25.1750.1095@42.25.1750.1095" timestamp="1722814220154" />
+    <state width="1103" height="370" key="GridCell.Tab.0.right" timestamp="1722814220154">
+      <screen x="42" y="25" width="1750" height="1095" />
+    </state>
+    <state width="1103" height="370" key="GridCell.Tab.0.right/42.25.1750.1095@42.25.1750.1095" timestamp="1722814220154" />
+    <state width="1103" height="370" key="GridCell.Tab.1.bottom" timestamp="1722814220155">
+      <screen x="42" y="25" width="1750" height="1095" />
+    </state>
+    <state width="1103" height="370" key="GridCell.Tab.1.bottom/42.25.1750.1095@42.25.1750.1095" timestamp="1722814220155" />
+    <state width="1103" height="370" key="GridCell.Tab.1.center" timestamp="1722814220154">
+      <screen x="42" y="25" width="1750" height="1095" />
+    </state>
+    <state width="1103" height="370" key="GridCell.Tab.1.center/42.25.1750.1095@42.25.1750.1095" timestamp="1722814220154" />
+    <state width="1103" height="370" key="GridCell.Tab.1.left" timestamp="1722814220154">
+      <screen x="42" y="25" width="1750" height="1095" />
+    </state>
+    <state width="1103" height="370" key="GridCell.Tab.1.left/42.25.1750.1095@42.25.1750.1095" timestamp="1722814220154" />
+    <state width="1103" height="370" key="GridCell.Tab.1.right" timestamp="1722814220155">
+      <screen x="42" y="25" width="1750" height="1095" />
+    </state>
+    <state width="1103" height="370" key="GridCell.Tab.1.right/42.25.1750.1095@42.25.1750.1095" timestamp="1722814220155" />
+    <state x="675" y="403" key="com.intellij.ide.util.TipDialog" timestamp="1721957588195">
+      <screen x="42" y="25" width="1750" height="1095" />
+    </state>
+    <state x="675" y="403" key="com.intellij.ide.util.TipDialog/42.25.1750.1095@42.25.1750.1095" timestamp="1721957588195" />
+    <state x="680" y="206" width="640" height="602" key="find.popup" timestamp="1721504737495">
+      <screen x="42" y="25" width="1750" height="1095" />
+    </state>
+    <state x="680" y="206" width="640" height="602" key="find.popup/42.25.1750.1095@42.25.1750.1095" timestamp="1721504737495" />
+    <state x="710" y="195" key="refactoring.ChangeSignatureDialog" timestamp="1722086508342">
+      <screen x="42" y="25" width="1750" height="1095" />
+    </state>
+    <state x="710" y="195" key="refactoring.ChangeSignatureDialog/42.25.1750.1095@42.25.1750.1095" timestamp="1722086508342" />
+    <state x="665" y="269" width="670" height="676" key="search.everywhere.popup" timestamp="1721509043037">
+      <screen x="42" y="25" width="1750" height="1095" />
+    </state>
+    <state x="665" y="269" width="670" height="676" key="search.everywhere.popup/42.25.1750.1095@42.25.1750.1095" timestamp="1721509043037" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Palindrome.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/IntegerToRoman.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LetterCombinationOfPhoneNumber.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/RemoveElement.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BinarySearch.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

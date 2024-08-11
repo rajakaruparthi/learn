@@ -11,7 +11,7 @@ public class ZigZagConversion {
 
         int upwardCount = 0, downwardCount = 0;
 
-        List<String> output = new ArrayList<>();
+        List<String> output = new ArrayList<String>();
 
         char[] outputAry = new char[s.length()];
 

@@ -7,9 +7,9 @@ public class PairsInArray {
     public static void printUniquePairs(int[] arr) {
         int n = arr.length;
         boolean[] visited = new boolean[n];
-        List<List<Integer>> pairs = new ArrayList<>();
+        List<List<Integer>> pairs = new ArrayList<List<Integer>>();
 
-        backtrack(arr, visited, new ArrayList<>(), pairs);
+        backtrack(arr, visited, new ArrayList<Integer>(), pairs);
 
         for (List<Integer> pair : pairs) {
             System.out.println(pair);
@@ -18,7 +18,7 @@ public class PairsInArray {
 
     private static void backtrack(int[] arr, boolean[] visited, List<Integer> currPair, List<List<Integer>> pairs) {
         if (currPair.size() == arr.length) {
-            pairs.add(new ArrayList<>(currPair));
+            pairs.add(new ArrayList<Integer>(currPair));
             return;
         }
 
