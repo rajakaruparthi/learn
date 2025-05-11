@@ -1,34 +1,39 @@
 package leetcode75;
 
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Map;
-import java.util.Set;
+import java.util.Arrays;
 
 public class MaxNumOfKPairs1679 {
 
     public static void main(String[] args) {
         MaxNumOfKPairs1679 maxNumOfKPairs1679 = new MaxNumOfKPairs1679();
-        maxNumOfKPairs1679.maxOperations(new int[]{2, 2, 2, 3, 1, 1, 4, 1}, 4);
+        int out = maxNumOfKPairs1679.maxOperations(new int[]{2, 2, 2, 3, 1, 1, 4, 1}, 4);
+        System.out.println(out);
     }
 
     public int maxOperations(int[] nums, int k) {
-        Map<Integer, Integer> map = new HashMap<Integer, Integer>();
+        Arrays.sort(nums);
 
-        int i = 0;
-
-        Set<Integer> set = new HashSet<Integer>();
-
-        for (int each : nums) {
-            if (set.contains(k - each)) {
-                i++;
-                set.remove(k-each);
-                set.remove(each);
-            } else {
-                set.add(each);
+        int ans = 0;
+        int left = 0;
+        int right = nums.length - 1;
+        int sum = 0;
+        while (left < right) {
+            sum = nums[left] + nums[right];
+            if (sum == k) {
+                left++;
+                right--;
+                ans++;
             }
-        }
 
-        return i;
+            if (sum < k) {
+                left++;
+            }
+
+            if (sum > k) {
+                right--;
+            }
+
+        }
+        return ans;
     }
 }

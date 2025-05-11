@@ -4,7 +4,7 @@ public class MinPartitions {
     public static void main(String[] args) {
 
         MinPartitions m = new MinPartitions();
-        m.minPartitions("32");
+        System.out.println(m.minPartitions("32"));
     }
 
     public int minPartitions(String n) {

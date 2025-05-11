@@ -34,6 +34,7 @@ public class MergeSort {
         divide(leftArray);
         divide(rightArray);
 
+
         merge(inputArray, leftArray, rightArray);
     }
 

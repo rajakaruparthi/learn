@@ -2,7 +2,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class PairsInArray {
+public class PairsInArrayBackTrack {
 
     public static void printUniquePairs(int[] arr) {
         int n = arr.length;

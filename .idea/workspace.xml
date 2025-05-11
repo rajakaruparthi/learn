@@ -1,31 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b0dbb159-2d0b-4842-9e99-cd7f0f53e892" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/AddBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DistanceBetweenTwoPoints.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FindDups.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FindWordsContaining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/InsertGreatestCommonDivisorsInLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MinPartitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NewJewelsInStones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NumSubArray713.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PermutationsBacktracking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PrintSubArrarysStartEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PrintSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SumSubarryLessThanK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode75/CanPlaceFlowers605.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode75/ContainerWithMostWater11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode75/GcdOfString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode75/IsSubsequence392.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode75/KidsWithGreatestCandles1431.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode75/MaxNumOfKPairs1679.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode75/MergeAlternately1768.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode75/MoveZeroes283.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode75/ReverseVowels345.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode75/ReverseWordInString151.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ContinousSubArraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DiffBetweenMaxAndMinAvg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaVirtualThreadEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeeetCode238.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leet125.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leet1957.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leet2390.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leet2490.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leet2914.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leet3163.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leet34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leet53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leet560.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leet62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leet73.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leet763.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leet77.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leet796.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode1446.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode1447.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode206.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode561.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode121.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode560.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LongestConsecutiveSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MSsort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MergeTwoSortedArrays88.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NextAndHasNext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RabinKarpAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SingletonInstance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SlidingWindowMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SortColorsLeet75.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SubarrySumEqualK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Twosum167.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode75/AstroidCollision735.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode75/ConvertToBase7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode75/DecodeString394.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode75/DifferenceOfTwoArrays2215.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode75/FactRec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode75/FindHighestAltitude1732.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode75/FindPivot724.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode75/Leet128.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode75/Leet205.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode75/Leet34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode75/Leet40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode75/Leet76.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode75/Leetcode120.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode75/LongestSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode75/LongestSubArrayOfOnes1493.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode75/MaxAvgSubArray643.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode75/MaxDepth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode75/MaxKSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode75/MaxVowels1456.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode75/MaximumContdOnes1004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode75/MethodRef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode75/RemoveStart2390.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode75/RowColumnEqual2352.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode75/TwoStringsClose1657.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode75/UniqueOccurance1207.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/GenerateValidParathesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GenerateValidParathesis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AddTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MinPartitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MinPartitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PairsInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PairsInArrayBackTrack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SwapPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SwapPairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode75/MaxNumOfKPairs1679.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode75/MaxNumOfKPairs1679.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +84,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Exception" />
         <option value="Class" />
       </list>
     </option>
@@ -42,26 +92,75 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2d1sPmrhdq9vFh07xqz2KdMpKcB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
-    <property name="settings.editor.selected.configurable" value="instant.run" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BinaryTree.executor": "Run",
+    "Application.ContainerWithMostWater11.executor": "Run",
+    "Application.ContinousSubArraySum.executor": "Run",
+    "Application.ConvertToBase7.executor": "Run",
+    "Application.DifferenceOfTwoArrays2215.executor": "Run",
+    "Application.DistanceBetweenTwoPoints.executor": "Run",
+    "Application.FactRec.executor": "Debug",
+    "Application.LeeetCode238.executor": "Run",
+    "Application.Leet125.executor": "Run",
+    "Application.Leet128.executor": "Run",
+    "Application.Leet1957.executor": "Run",
+    "Application.Leet205.executor": "Run",
+    "Application.Leet2390.executor": "Run",
+    "Application.Leet2490.executor": "Run",
+    "Application.Leet3163.executor": "Run",
+    "Application.Leet34.executor": "Run",
+    "Application.Leet40.executor": "Debug",
+    "Application.Leet62.executor": "Run",
+    "Application.Leet73.executor": "Debug",
+    "Application.Leet76.executor": "Run",
+    "Application.Leet763.executor": "Debug",
+    "Application.Leet77.executor": "Debug",
+    "Application.Leet796.executor": "Run",
+    "Application.LeetCode1446.executor": "Run",
+    "Application.LeetCode561.executor": "Run",
+    "Application.Leetcode120.executor": "Run",
+    "Application.Leetcode121.executor": "Run",
+    "Application.Leetcode560.executor": "Run",
+    "Application.LongestConsecutiveSequence.executor": "Run",
+    "Application.MergeSort.executor": "Debug",
+    "Application.MethodRef.executor": "Run",
+    "Application.RabinKarpAlgorithm.executor": "Debug",
+    "Application.SingletonINstance.executor": "Run",
+    "Application.SingletonInstance.executor": "Run",
+    "Application.SubarrySumEqualK.executor": "Run",
+    "Application.Temp.executor": "Run",
+    "Application.Twosum167.executor": "Run",
+    "Application.UniqueOccurance1207.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MaxNumOfKPairs1679">
-    <configuration name="ContainerWithMostWater11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode75.ContainerWithMostWater11" />
+  <component name="RunManager" selected="Application.ConvertToBase7">
+    <configuration name="ConvertToBase7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode75.ConvertToBase7" />
       <module name="coading-excercises" />
       <extension name="coverage">
         <pattern>
@@ -73,8 +172,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsSubsequence392" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode75.IsSubsequence392" />
+    <configuration name="Leet34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode75.Leet34" />
       <module name="coading-excercises" />
       <extension name="coverage">
         <pattern>
@@ -86,62 +185,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxNumOfKPairs1679" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode75.MaxNumOfKPairs1679" />
+    <configuration name="Leet62" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leet62" />
       <module name="coading-excercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode75.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoveZeroes283" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode75.MoveZeroes283" />
+    <configuration name="Leet73" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leet73" />
       <module name="coading-excercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode75.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseVowels345" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode75.ReverseVowels345" />
+    <configuration name="Leet77" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leet77" />
       <module name="coading-excercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode75.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ReverseVowels345" />
-      <item itemvalue="Application.MoveZeroes283" />
-      <item itemvalue="Application.IsSubsequence392" />
-      <item itemvalue="Application.ContainerWithMostWater11" />
-      <item itemvalue="Application.MaxNumOfKPairs1679" />
+      <item itemvalue="Application.ConvertToBase7" />
+      <item itemvalue="Application.Leet77" />
+      <item itemvalue="Application.Leet34" />
+      <item itemvalue="Application.Leet62" />
+      <item itemvalue="Application.Leet73" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaxNumOfKPairs1679" />
-        <item itemvalue="Application.ContainerWithMostWater11" />
-        <item itemvalue="Application.IsSubsequence392" />
-        <item itemvalue="Application.MoveZeroes283" />
-        <item itemvalue="Application.ReverseVowels345" />
+        <item itemvalue="Application.ConvertToBase7" />
+        <item itemvalue="Application.Leet77" />
+        <item itemvalue="Application.Leet73" />
+        <item itemvalue="Application.Leet62" />
+        <item itemvalue="Application.Leet34" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -154,72 +236,6 @@
       <updated>1709186896563</updated>
     </task>
     <servers />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="464" y="233" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1721504653040">
-      <screen x="42" y="25" width="1750" height="1095" />
-    </state>
-    <state x="464" y="233" key="#com.intellij.execution.impl.EditConfigurationsDialog/42.25.1750.1095@42.25.1750.1095" timestamp="1721504653040" />
-    <state x="680" y="283" key="#xdebugger.evaluate" timestamp="1723796813206">
-      <screen x="42" y="25" width="1750" height="1095" />
-    </state>
-    <state x="680" y="283" key="#xdebugger.evaluate/42.25.1750.1095@42.25.1750.1095" timestamp="1723796813206" />
-    <state width="439" height="466" key="DebuggerActiveHint" timestamp="1724469696726">
-      <screen x="42" y="25" width="1750" height="1095" />
-    </state>
-    <state width="439" height="466" key="DebuggerActiveHint/42.25.1750.1095@42.25.1750.1095" timestamp="1724469696726" />
-    <state width="1708" height="270" key="GridCell.Tab.0.bottom" timestamp="1724469920811">
-      <screen x="42" y="25" width="1750" height="1095" />
-    </state>
-    <state width="1708" height="270" key="GridCell.Tab.0.bottom/42.25.1750.1095@42.25.1750.1095" timestamp="1724469920811" />
-    <state width="1708" height="270" key="GridCell.Tab.0.center" timestamp="1724469920810">
-      <screen x="42" y="25" width="1750" height="1095" />
-    </state>
-    <state width="1708" height="270" key="GridCell.Tab.0.center/42.25.1750.1095@42.25.1750.1095" timestamp="1724469920810" />
-    <state width="1708" height="270" key="GridCell.Tab.0.left" timestamp="1724469920809">
-      <screen x="42" y="25" width="1750" height="1095" />
-    </state>
-    <state width="1708" height="270" key="GridCell.Tab.0.left/42.25.1750.1095@42.25.1750.1095" timestamp="1724469920809" />
-    <state width="1708" height="270" key="GridCell.Tab.0.right" timestamp="1724469920810">
-      <screen x="42" y="25" width="1750" height="1095" />
-    </state>
-    <state width="1708" height="270" key="GridCell.Tab.0.right/42.25.1750.1095@42.25.1750.1095" timestamp="1724469920810" />
-    <state width="1708" height="316" key="GridCell.Tab.1.bottom" timestamp="1724469912701">
-      <screen x="42" y="25" width="1750" height="1095" />
-    </state>
-    <state width="1708" height="316" key="GridCell.Tab.1.bottom/42.25.1750.1095@42.25.1750.1095" timestamp="1724469912701" />
-    <state width="1708" height="316" key="GridCell.Tab.1.center" timestamp="1724469912700">
-      <screen x="42" y="25" width="1750" height="1095" />
-    </state>
-    <state width="1708" height="316" key="GridCell.Tab.1.center/42.25.1750.1095@42.25.1750.1095" timestamp="1724469912700" />
-    <state width="1708" height="316" key="GridCell.Tab.1.left" timestamp="1724469912698">
-      <screen x="42" y="25" width="1750" height="1095" />
-    </state>
-    <state width="1708" height="316" key="GridCell.Tab.1.left/42.25.1750.1095@42.25.1750.1095" timestamp="1724469912698" />
-    <state width="1708" height="316" key="GridCell.Tab.1.right" timestamp="1724469912700">
-      <screen x="42" y="25" width="1750" height="1095" />
-    </state>
-    <state width="1708" height="316" key="GridCell.Tab.1.right/42.25.1750.1095@42.25.1750.1095" timestamp="1724469912700" />
-    <state x="675" y="403" key="com.intellij.ide.util.TipDialog" timestamp="1724466931950">
-      <screen x="42" y="25" width="1750" height="1095" />
-    </state>
-    <state x="675" y="403" key="com.intellij.ide.util.TipDialog/42.25.1750.1095@42.25.1750.1095" timestamp="1724466931950" />
-    <state x="724" y="494" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1723880583290">
-      <screen x="42" y="25" width="1750" height="1095" />
-    </state>
-    <state x="724" y="494" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/42.25.1750.1095@42.25.1750.1095" timestamp="1723880583290" />
-    <state x="680" y="206" width="640" height="602" key="find.popup" timestamp="1723777615394">
-      <screen x="42" y="25" width="1750" height="1095" />
-    </state>
-    <state x="680" y="206" width="640" height="602" key="find.popup/42.25.1750.1095@42.25.1750.1095" timestamp="1723777615394" />
-    <state x="710" y="195" key="refactoring.ChangeSignatureDialog" timestamp="1722086508342">
-      <screen x="42" y="25" width="1750" height="1095" />
-    </state>
-    <state x="710" y="195" key="refactoring.ChangeSignatureDialog/42.25.1750.1095@42.25.1750.1095" timestamp="1722086508342" />
-    <state x="665" y="269" width="670" height="676" key="search.everywhere.popup" timestamp="1721509043037">
-      <screen x="42" y="25" width="1750" height="1095" />
-    </state>
-    <state x="665" y="269" width="670" height="676" key="search.everywhere.popup/42.25.1750.1095@42.25.1750.1095" timestamp="1721509043037" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -310,9 +326,129 @@
           <option name="timeStamp" value="58" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode75/MaxNumOfKPairs1679.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode75/LongestSubArray.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode75/FindPivot724.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode75/DifferenceOfTwoArrays2215.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/FindDups.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/PairsInArrayBackTrack.java</url>
           <line>19</line>
-          <option name="timeStamp" value="59" />
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode75/AstroidCollision735.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode75/DecodeString394.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MSsort.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode75/Leet205.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Leet77.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Leetcode121.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Leetcode560.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode75/Leetcode120.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Leet125.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Leet125.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Leet763.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Leet763.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Leet1957.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Leet3163.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode75/Leet40.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode75/Leet40.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode75/Leet34.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode75/Leet34.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Leet73.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode75/ConvertToBase7.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="137" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

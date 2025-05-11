@@ -71,13 +71,13 @@ public class AddTwoNumbers {
         return output;
     }
 
-    /*private static ListNode addToListNode(ListNode l, int val) {
+    /*private static Ln addToListNode(Ln l, int val) {
 
         while (l != null) {
             l = l.next;
         }
 
-        ListNode node = new ListNode(val);
+        Ln node = new Ln(val);
 
     }
 */
